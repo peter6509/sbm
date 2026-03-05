@@ -1,0 +1,610 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sbm\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\volpro.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\volpro.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|c:\\sbm\\api\\volpro.core\\controllers\\basic\\apibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|solutionrelative:volpro.core\\controllers\\basic\\apibasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|c:\\sbm\\api\\volpro.core\\tenancy\\tenancymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|solutionrelative:volpro.core\\tenancy\\tenancymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|c:\\sbm\\api\\volpro.core\\middleware\\httprequestmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|solutionrelative:volpro.core\\middleware\\httprequestmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|c:\\sbm\\api\\volpro.core\\baseprovider\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|solutionrelative:volpro.core\\baseprovider\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_stockoutopencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_stockoutopencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_stockmovecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_stockmovecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_stock_pickingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_stock_pickingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_sale_order_linecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_sale_order_linecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_sale_ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_sale_ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_reqopencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_reqopencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_partnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_bucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_bucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_require_purchase_doccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_require_purchase_doccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_require_purchase_linecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_require_purchase_linecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sbm\\partial\\sbm_require_purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sbm\\partial\\sbm_require_purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17DB44D-59EF-47D5-9B21-E2F6C471B5E9}|VolPro.Entity\\VolPro.Entity.csproj|c:\\sbm\\api\\volpro.entity\\domainmodels\\sbm_reqopen\\partial\\sbm_reqopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17DB44D-59EF-47D5-9B21-E2F6C471B5E9}|VolPro.Entity\\VolPro.Entity.csproj|solutionrelative:volpro.entity\\domainmodels\\sbm_reqopen\\partial\\sbm_reqopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0190F611-3576-4372-8633-8E4E62482C2D}|VolPro.sbm\\VolPro.sbm.csproj|c:\\sbm\\api\\volpro.sbm\\services\\sbm_require_purchase\\partial\\sbm_require_purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0190F611-3576-4372-8633-8E4E62482C2D}|VolPro.sbm\\VolPro.sbm.csproj|solutionrelative:volpro.sbm\\services\\sbm_require_purchase\\partial\\sbm_require_purchaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|c:\\sbm\\api\\volpro.core\\print\\printcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|solutionrelative:volpro.core\\print\\printcustom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|c:\\sbm\\api\\volpro.core\\middleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|solutionrelative:volpro.core\\middleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F688BF2-B51B-4812-B0C4-8F5D13114E9E}|VolPro.Sys\\VolPro.Sys.csproj|c:\\sbm\\api\\volpro.sys\\services\\system\\partial\\sys_userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F688BF2-B51B-4812-B0C4-8F5D13114E9E}|VolPro.Sys\\VolPro.Sys.csproj|solutionrelative:volpro.sys\\services\\system\\partial\\sys_userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sys\\partial\\sys_usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sys\\partial\\sys_usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sys\\sys_usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sys\\sys_usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0190F611-3576-4372-8633-8E4E62482C2D}|VolPro.sbm\\VolPro.sbm.csproj|c:\\sbm\\api\\volpro.sbm\\services\\sbm_sale_order\\partial\\sbm_sale_orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0190F611-3576-4372-8633-8E4E62482C2D}|VolPro.sbm\\VolPro.sbm.csproj|solutionrelative:volpro.sbm\\services\\sbm_sale_order\\partial\\sbm_sale_orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\sys\\partial\\sys_printoptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\sys\\partial\\sys_printoptionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|c:\\sbm\\api\\volpro.core\\usermanager\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F72743E-647E-4D37-85D1-07EC9CD0AB71}|VolPro.Core\\VolPro.Core.csproj|solutionrelative:volpro.core\\usermanager\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0190F611-3576-4372-8633-8E4E62482C2D}|VolPro.sbm\\VolPro.sbm.csproj|c:\\sbm\\api\\volpro.sbm\\services\\sbm_sale_order_line\\partial\\sbm_sale_order_lineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0190F611-3576-4372-8633-8E4E62482C2D}|VolPro.sbm\\VolPro.sbm.csproj|solutionrelative:volpro.sbm\\services\\sbm_sale_order_line\\partial\\sbm_sale_order_lineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0190F611-3576-4372-8633-8E4E62482C2D}|VolPro.sbm\\VolPro.sbm.csproj|c:\\sbm\\api\\volpro.sbm\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0190F611-3576-4372-8633-8E4E62482C2D}|VolPro.sbm\\VolPro.sbm.csproj|solutionrelative:volpro.sbm\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\objectactionvalidatorexamplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\objectactionvalidatorexamplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\dbmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\dbmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|c:\\sbm\\api\\volpro.webapi\\controllers\\apihomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB3C91B-93FE-4937-8B58-DDD3F57D4607}|VolPro.WebApi\\VolPro.WebApi.csproj|solutionrelative:volpro.webapi\\controllers\\apihomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VolPro.WebApi.csproj",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\VolPro.WebApi.csproj",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\VolPro.WebApi.csproj",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\VolPro.WebApi.csproj",
+              "RelativeToolTip": "VolPro.WebApi\\VolPro.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-27T08:07:45.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TenancyManager.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.Core\\Tenancy\\TenancyManager.cs",
+              "RelativeDocumentMoniker": "VolPro.Core\\Tenancy\\TenancyManager.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.Core\\Tenancy\\TenancyManager.cs",
+              "RelativeToolTip": "VolPro.Core\\Tenancy\\TenancyManager.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:37:09.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sbm_stockmoveController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stockmoveController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stockmoveController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stockmoveController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stockmoveController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:39:58.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "sbm_stockoutopenController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stockoutopenController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stockoutopenController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stockoutopenController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stockoutopenController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:13:59.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sbm_reqopenController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_reqopenController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_reqopenController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_reqopenController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_reqopenController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:04:52.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sbm_sale_orderController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_sale_orderController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_sale_orderController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_sale_orderController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_sale_orderController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwFUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:46:05.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Startup.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Startup.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Startup.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Startup.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAowMwAAAAkAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:45:11.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\appsettings.json",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\appsettings.json",
+              "RelativeToolTip": "VolPro.WebApi\\appsettings.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T07:53:39.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "sbm_stock_pickingController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stock_pickingController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stock_pickingController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stock_pickingController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_stock_pickingController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:39:54.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sbm_sale_order_lineController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_sale_order_lineController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_sale_order_lineController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_sale_order_lineController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_sale_order_lineController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:11:11.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.Core\\BaseProvider\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "VolPro.Core\\BaseProvider\\ServiceBase.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.Core\\BaseProvider\\ServiceBase.cs",
+              "RelativeToolTip": "VolPro.Core\\BaseProvider\\ServiceBase.cs",
+              "ViewState": "AgIAAFkBAAAAAAAAAAAUwKsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T11:13:35.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiBaseController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.Core\\Controllers\\Basic\\ApiBaseController.cs",
+              "RelativeDocumentMoniker": "VolPro.Core\\Controllers\\Basic\\ApiBaseController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.Core\\Controllers\\Basic\\ApiBaseController.cs",
+              "RelativeToolTip": "VolPro.Core\\Controllers\\Basic\\ApiBaseController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwCsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T03:37:41.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HttpRequestMiddleware.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.Core\\Middleware\\HttpRequestMiddleware.cs",
+              "RelativeDocumentMoniker": "VolPro.Core\\Middleware\\HttpRequestMiddleware.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.Core\\Middleware\\HttpRequestMiddleware.cs",
+              "RelativeToolTip": "VolPro.Core\\Middleware\\HttpRequestMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:15:01.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "sbm_partnerController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_partnerController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_partnerController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_partnerController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_partnerController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:27:08.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sbm_buController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_buController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_buController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_buController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_buController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:27:19.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "sbm_require_purchase_docController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchase_docController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchase_docController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchase_docController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchase_docController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:18:43.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "sbm_require_purchase_lineController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchase_lineController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchase_lineController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchase_lineController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchase_lineController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:18:34.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "sbm_require_purchaseController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchaseController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchaseController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchaseController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\sbm\\Partial\\sbm_require_purchaseController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:18:04.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sys_UserService.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.Sys\\Services\\System\\Partial\\Sys_UserService.cs",
+              "RelativeDocumentMoniker": "VolPro.Sys\\Services\\System\\Partial\\Sys_UserService.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.Sys\\Services\\System\\Partial\\Sys_UserService.cs",
+              "RelativeToolTip": "VolPro.Sys\\Services\\System\\Partial\\Sys_UserService.cs",
+              "ViewState": "AgIAAKUBAAAAAAAAAAAAwLABAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T08:03:09.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "sbm_require_purchaseService.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.sbm\\Services\\sbm_require_purchase\\Partial\\sbm_require_purchaseService.cs",
+              "RelativeDocumentMoniker": "VolPro.sbm\\Services\\sbm_require_purchase\\Partial\\sbm_require_purchaseService.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.sbm\\Services\\sbm_require_purchase\\Partial\\sbm_require_purchaseService.cs",
+              "RelativeToolTip": "VolPro.sbm\\Services\\sbm_require_purchase\\Partial\\sbm_require_purchaseService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:04:03.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "sbm_reqopen.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.Entity\\DomainModels\\sbm_reqopen\\partial\\sbm_reqopen.cs",
+              "RelativeDocumentMoniker": "VolPro.Entity\\DomainModels\\sbm_reqopen\\partial\\sbm_reqopen.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.Entity\\DomainModels\\sbm_reqopen\\partial\\sbm_reqopen.cs",
+              "RelativeToolTip": "VolPro.Entity\\DomainModels\\sbm_reqopen\\partial\\sbm_reqopen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T13:09:21.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Sys_UserController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\Sys\\Partial\\Sys_UserController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\Sys\\Partial\\Sys_UserController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\Sys\\Partial\\Sys_UserController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\Sys\\Partial\\Sys_UserController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwv8oAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T08:01:43.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExceptionHandlerMiddleWare.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.Core\\Middleware\\ExceptionHandlerMiddleWare.cs",
+              "RelativeDocumentMoniker": "VolPro.Core\\Middleware\\ExceptionHandlerMiddleWare.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.Core\\Middleware\\ExceptionHandlerMiddleWare.cs",
+              "RelativeToolTip": "VolPro.Core\\Middleware\\ExceptionHandlerMiddleWare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T03:10:29.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PrintCustom.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.Core\\Print\\PrintCustom.cs",
+              "RelativeDocumentMoniker": "VolPro.Core\\Print\\PrintCustom.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.Core\\Print\\PrintCustom.cs",
+              "RelativeToolTip": "VolPro.Core\\Print\\PrintCustom.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAJgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T05:43:18.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Sys_UserController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\Sys\\Sys_UserController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\Sys\\Sys_UserController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\Sys\\Sys_UserController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\Sys\\Sys_UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T08:31:46.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "sbm_sale_orderService.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.sbm\\Services\\sbm_sale_order\\Partial\\sbm_sale_orderService.cs",
+              "RelativeDocumentMoniker": "VolPro.sbm\\Services\\sbm_sale_order\\Partial\\sbm_sale_orderService.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.sbm\\Services\\sbm_sale_order\\Partial\\sbm_sale_orderService.cs",
+              "RelativeToolTip": "VolPro.sbm\\Services\\sbm_sale_order\\Partial\\sbm_sale_orderService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:36:59.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Sys_PrintOptionsController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\Sys\\Partial\\Sys_PrintOptionsController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\Sys\\Partial\\Sys_PrintOptionsController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\Sys\\Partial\\Sys_PrintOptionsController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\Sys\\Partial\\Sys_PrintOptionsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T05:41:49.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VolPro.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T07:43:30.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.Core\\UserManager\\UserContext.cs",
+              "RelativeDocumentMoniker": "VolPro.Core\\UserManager\\UserContext.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.Core\\UserManager\\UserContext.cs",
+              "RelativeToolTip": "VolPro.Core\\UserManager\\UserContext.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwHYAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-20T09:07:57.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Program.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Program.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:49:10.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "sbm_sale_order_lineService.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.sbm\\Services\\sbm_sale_order_line\\Partial\\sbm_sale_order_lineService.cs",
+              "RelativeDocumentMoniker": "VolPro.sbm\\Services\\sbm_sale_order_line\\Partial\\sbm_sale_order_lineService.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.sbm\\Services\\sbm_sale_order_line\\Partial\\sbm_sale_order_lineService.cs",
+              "RelativeToolTip": "VolPro.sbm\\Services\\sbm_sale_order_line\\Partial\\sbm_sale_order_lineService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T13:11:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.sbm\\Class1.cs",
+              "RelativeDocumentMoniker": "VolPro.sbm\\Class1.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.sbm\\Class1.cs",
+              "RelativeToolTip": "VolPro.sbm\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:06:51.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ObjectActionValidatorExampleController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\ObjectActionValidatorExampleController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\ObjectActionValidatorExampleController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\ObjectActionValidatorExampleController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\ObjectActionValidatorExampleController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswGEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:52:51.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DbManagerController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\DbManagerController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\DbManagerController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\DbManagerController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\DbManagerController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:52:12.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\AppController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\AppController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\AppController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\AppController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:51:38.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApiHomeController.cs",
+              "DocumentMoniker": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\ApiHomeController.cs",
+              "RelativeDocumentMoniker": "VolPro.WebApi\\Controllers\\ApiHomeController.cs",
+              "ToolTip": "C:\\sbm\\api\\VolPro.WebApi\\Controllers\\ApiHomeController.cs",
+              "RelativeToolTip": "VolPro.WebApi\\Controllers\\ApiHomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T10:50:05.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

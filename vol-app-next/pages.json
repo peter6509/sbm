@@ -1,0 +1,465 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/home/home", //首页
+			"style": {
+				"enablePullDownRefresh": false,
+				//"navigationBarBackgroundColor": "#FFFFFF",//导航栏颜色
+				//"navigationBarTitleText":"",//导航栏文字
+				"navigationStyle": "custom", // 隐藏系统导航栏
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/login/login", //登录
+			"style": {
+				"enablePullDownRefresh": false,
+				//"navigationBarBackgroundColor": "#FFFFFF",//导航栏颜色
+				//"navigationBarTitleText":"",//导航栏文字
+				"navigationStyle": "custom", // 隐藏系统导航栏
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "components/vol-preview/vol-preview",
+			"style": {
+				"navigationBarTitleText": "預覽"
+			}
+		},
+		{
+			"path": "pages/policy/policy",
+			"style": {
+				"navigationBarTitleText": "隱私政策"
+			}
+		},
+		{
+			"path": "pages/agreement/agreement",
+			"style": {
+				"navigationBarTitleText": "用户服務協議"
+			}
+		},
+		{
+			"path": "pages/menu/menu",
+			"style": {
+				"navigationBarTitleText": "菜單"
+			}
+		},
+		{
+			"path": "pages/flow/flow",
+			"style": {
+				"navigationBarTitleText": "審核流程"
+			}
+		}, {
+			"path": "pages/flow/audit/audit",
+			"style": {
+				"navigationBarTitleText": "審核",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/report/index",
+			"style": {
+				"navigationBarTitleText": "報表管理"
+			}
+		},
+		// {
+		// 	"path": "pages/message/message",
+		// 	"style": {
+		// 		"navigationBarTitleText": "消息"
+		// 	}
+		// },
+
+
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#00aaff",
+				"app-plus": { // 隐藏系统导航栏
+					"titleNView": false
+				},
+				"navigationStyle": "custom" //添加自定义配置
+			}
+		},
+		{
+			"path": "pages/user/modifyPwd",
+			"style": {
+				"navigationBarTitleText": "修改密码"
+			}
+		}, {
+			"path": "pages/language/language",
+			"style": {
+				"navigationBarTitleText": "語言設置"
+			}
+		},
+
+
+		//演示菜单页面开始位置
+		{
+			"path": "pages/form/index",
+			"style": {
+				"navigationBarTitleText": "基礎表單",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/form/form1",
+			"style": {
+				"navigationBarTitleText": "基礎表單",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/form/event",
+			"style": {
+				"navigationBarTitleText": "表單事件處理",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/form/calc",
+			"style": {
+				"navigationBarTitleText": "表單字段實時計算",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/form/group",
+			"style": {
+				"navigationBarTitleText": "表單分组",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/form/format",
+			"style": {
+				"navigationBarTitleText": "表單格式化",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/form/position",
+			"style": {
+				"navigationBarTitleText": "標簽位置、寬度",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/table/index",
+			"style": {
+				"navigationBarTitleText": "表格组件"
+			}
+		},
+		{
+			"path": "pages/table/base-table",
+			"style": {
+				"navigationBarTitleText": "基礎表格"
+			}
+		},
+		{
+			"path": "pages/table/scroll-table",
+			"style": {
+				"navigationBarTitleText": "可滾動表格"
+			}
+		},
+		{
+			"path": "pages/table/list-table",
+			"style": {
+				"navigationBarTitleText": "列表展示"
+			}
+		},
+		{
+			"path": "pages/table/api-table",
+			"style": {
+				"navigationBarTitleText": "接口獲取數據"
+			}
+		},
+		{
+			"path": "pages/table/custom-table",
+			"style": {
+				"navigationBarTitleText": "自定義列表"
+			}
+		},
+		{
+			"path": "pages/table/group-table",
+			"style": {
+				"navigationBarTitleText": "列表分组"
+			}
+		},
+		{
+			"path": "pages/table/event-table",
+			"style": {
+				"disableScroll": true,
+				"navigationBarTitleText": "事件處理"
+			}
+		},
+		{
+			"path": "pages/table/height-table",
+			"style": {
+				"disableScroll": true,
+				"navigationBarTitleText": "高度設置"
+			}
+		},
+		{
+			"path": "pages/table/format-table",
+			"style": {
+				"disableScroll": true,
+				"navigationBarTitleText": "格式化處理"
+			}
+		},
+		{
+			"path": "pages/table/ck-table",
+			"style": {
+				"disableScroll": true,
+				"navigationBarTitleText": "顯示複選框,行號"
+			}
+		},
+		{
+			"path": "pages/table/btn-table",
+			"style": {
+				"disableScroll": true,
+				"navigationBarTitleText": "自定義按鈕"
+			}
+		},
+		{
+			"path": "pages/table/edit-table",
+			"style": {
+				"disableScroll": true,
+				"navigationBarTitleText": "行内編輯"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Goods/Demo_Goods",
+			"style": {
+				"navigationBarTitleText": "商品信息"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_Order",
+			"style": {
+				"navigationBarTitleText": "訂單管理"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_OrderEdit",
+			"style": {
+				"navigationBarTitleText": "訂單管理"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_Order2",
+			"style": {
+				"navigationBarTitleText": "主從表明细表"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_OrderSummary",
+			"style": {
+				"navigationBarTitleText": "表格合計"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_OrderGroup",
+			"style": {
+				"navigationBarTitleText": "表格分组"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_OrderSearch",
+			"style": {
+				"navigationBarTitleText": "分组查詢"
+			}
+		},
+		{
+			"path": "pages/dbtest/Demo_Order/Demo_OrderColor1",
+			"style": {
+				"navigationBarTitleText": "格式化颜色二"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_OrderColor2",
+			"style": {
+				"navigationBarTitleText": "格式化颜色二"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_OrderCK",
+			"style": {
+				"navigationBarTitleText": "複選框、行號"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_OrderEvent",
+			"style": {
+				"navigationBarTitleText": "事件處理"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_OrderBtn",
+			"style": {
+				"navigationBarTitleText": "自定義按鈕"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_OrderCustom",
+			"style": {
+				"navigationBarTitleText": "完全自定義" 
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Order/Demo_OrderSlot",
+			"style": {
+				"navigationBarTitleText": "數據槽"
+			}
+		},
+		{
+			"path": "pages/dbtest/Demo_Product/Demo_Product",
+			"style": {
+				"navigationBarTitleText": "產品管理"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Product/Demo_ProductEdit",
+			"style": {
+				"navigationBarTitleText": "產品管理"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Product/Demo_Product2",
+			"style": {
+				"navigationBarTitleText": "產品管理一對多"
+			}
+		}, {
+			"path": "pages/dbtest/Demo_Catalog/Demo_Catalog",
+			"style": {
+				"navigationBarTitleText": "商品分類"
+			}
+		}, {
+			"path": "pages/sys/Sys_Region/Sys_Region",
+			"style": {
+				"navigationBarTitleText": "省市區縣"
+			}
+		}, {
+			"path": "pages/sys/Sys_Region/Sys_RegionEdit",
+			"style": {
+				"navigationBarTitleText": "省市區縣"
+			}
+		}, {
+			"path": "pages/other/other",
+			"style": {
+				"navigationBarTitleText": "其他组件"
+			}
+
+		}
+		 
+			,{
+			"path": "pages/sbm/sbm_partner/sbm_partner",
+			"style": {
+				"navigationBarTitleText": "合作夥伴"
+			}
+		}
+			,{
+			"path": "pages/sbm/sbm_partner/sbm_partnerEdit",
+			"style": {
+				"navigationBarTitleText": "合作夥伴"
+			}
+		}
+			,{
+			"path": "pages/sbm/sbm_sale_order/sbm_sale_order",
+			"style": {
+				"navigationBarTitleText": "報價單主檔"
+			}
+		}
+			,{
+			"path": "pages/sbm/sbm_sale_order/sbm_sale_orderEdit",
+			"style": {
+				"navigationBarTitleText": "報價單主檔"
+			}
+		}
+	],
+	//如果需要使用图表，请在此处配置页面，因为图表太大，小程序主包上限2M，这里做了分包处理
+	//分包的访问地址为:/pagesCharts+path
+	"subPackages": [{
+		"root": "pagesCharts",
+		"name": "pagesCharts",
+		"pages": [{
+			"path": "report/index", //配置与访问路径：pagesCharts/report/index
+			"style": {
+				"navigationBarTitleText": "統計圖表",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "report/order", //配置与访问路径：pagesCharts/report/order
+			"style": {
+				"navigationBarTitleText": "銷售統計",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "report/defective", //配置与访问路径：pagesCharts/report/defective
+			"style": {
+				"navigationBarTitleText": "不良品數量",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "report/production", //配置与访问路径：pagesCharts/report/production
+			"style": {
+				"navigationBarTitleText": "生產看板",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "Demo_Order/Demo_OrderCharts",
+			"style": {
+				"navigationBarTitleText": "圖表+表格"
+			}
+		}]
+	}],
+	/*************注意下面tabBar配置，如果使用多语言修改后tabBarChangeLanguage.js文件中也要修改名字或者移除***************/
+	"tabBar": { //设置要与第一个pages的path相同
+		"color": "#535353",
+		"selectedColor": "#2f92f9",
+		"fontSize": "12px",
+		"borderStyle": "white", //"white",//#e8e8e8",// "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/home/home",
+				"iconPath": "static/tabbar/home.png",
+				"selectedIconPath": "static/tabbar/home_active.png",
+				"text": "首頁"
+			},
+			{
+				"pagePath": "pages/menu/menu",
+				"iconPath": "static/tabbar/menu.png",
+				"selectedIconPath": "static/tabbar/menu_active.png",
+				"text": "菜單"
+			},
+			{
+				"pagePath": "pages/flow/flow",
+				"iconPath": "static/tabbar/flow.png",
+				"selectedIconPath": "static/tabbar/flow_active.png",
+				"text": "審核"
+			},
+			{
+				"pagePath": "pages/report/index",
+				"iconPath": "static/tabbar/report.png",
+				"selectedIconPath": "static/tabbar/report_active.png",
+				"text": "報表"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"iconPath": "static/tabbar/user.png",
+				"selectedIconPath": "static/tabbar/user_active.png",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#00aaff",
+		"navigationBarTextStyle": "white",
+		"backgroundColor": "#FFFFFF" //,
+		//"enablePullDownRefresh": true
+	},
+	"easycom": {
+		"autoscan": true,
+		// 注意一定要放在custom里，否则无效，https://ask.dcloud.net.cn/question/131175
+		"custom": {
+			"^u--(.*)": "@/uni_modules/uview-plus/components/u-$1/u-$1.vue",
+			"^up-(.*)": "@/uni_modules/uview-plus/components/u-$1/u-$1.vue",
+			"^u-([^-].*)": "@/uni_modules/uview-plus/components/u-$1/u-$1.vue",
+			"^vol-(.*)": "@/components/vol-$1/vol-$1.vue",
+			"^view-(.*)": "@/components/view-$1/view-$1.vue"
+		}
+	},
+	"uniIdRouter": {}
+}

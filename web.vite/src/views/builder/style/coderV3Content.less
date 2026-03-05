@@ -1,0 +1,87 @@
+.coder-content {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .coder-content-header {
+    height: 45px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+  }
+  .corder-content-btns {
+    display: flex;
+        align-items: center;
+        span.el-icon-info{
+          margin-right: 10px;
+        }
+  }
+  .fx-1 {
+    flex: 1;
+  }
+  .coder-content-el {
+    flex: 1;
+    height: 0;
+    // background: #fff;
+    margin-top: 10px;
+  }
+  .form-content {
+    background: #fff;
+    padding: 10px;
+  }
+  .table-content {
+    margin-top: 10px;
+    background: #fff;
+    .fx {
+      display: flex;
+      padding: 5px 12px;
+      .btns {
+        flex: 1;
+        text-align: right;
+      }
+    }
+  }
+}
+.desc {
+  color: #0247de;
+  font-size: 13px;
+}
+.coder-tabs {
+  display: flex;
+  background: #fff;
+  padding: 0 19px;
+  border-top: 1px solid #ebebeb;
+  ::v-deep(.el-tabs) {
+    .el-tabs__nav-wrap:after {
+      height: 1px !important;
+    }
+    .el-tabs__header {
+      margin: 0 !important;
+    }
+    .el-tabs__item{
+      padding: 0 12px;
+    }
+  }
+  .desc {
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    span {
+      margin-right: 5px;
+    }
+  }
+}
+.add-model {
+  padding: 10px 10px 10px 20px;
+  ::v-deep(.vol-form-item) {
+    margin-bottom: 10px !important;
+  }
+}
+.ck {
+  font-size: 14px;
+  // margin-right: 10px;
+  margin-right: 20px;
+  position: relative;
+  top: 2px;
+}

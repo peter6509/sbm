@@ -1,0 +1,17 @@
+C:\sbm\api\VolPro.Sys\bin\Release\net8.0\VolPro.Sys.deps.json
+C:\sbm\api\VolPro.Sys\bin\Release\net8.0\VolPro.Sys.dll
+C:\sbm\api\VolPro.Sys\bin\Release\net8.0\VolPro.Sys.pdb
+C:\sbm\api\VolPro.Sys\bin\Release\net8.0\VolPro.Core.dll
+C:\sbm\api\VolPro.Sys\bin\Release\net8.0\VolPro.Entity.dll
+C:\sbm\api\VolPro.Sys\bin\Release\net8.0\VolPro.Core.pdb
+C:\sbm\api\VolPro.Sys\bin\Release\net8.0\VolPro.Entity.pdb
+C:\sbm\api\VolPro.Sys\obj\Release\net8.0\VolPro.Sys.csproj.AssemblyReference.cache
+C:\sbm\api\VolPro.Sys\obj\Release\net8.0\VolPro.Sys.GeneratedMSBuildEditorConfig.editorconfig
+C:\sbm\api\VolPro.Sys\obj\Release\net8.0\VolPro.Sys.AssemblyInfoInputs.cache
+C:\sbm\api\VolPro.Sys\obj\Release\net8.0\VolPro.Sys.AssemblyInfo.cs
+C:\sbm\api\VolPro.Sys\obj\Release\net8.0\VolPro.Sys.csproj.CoreCompileInputs.cache
+C:\sbm\api\VolPro.Sys\obj\Release\net8.0\VolPro.Sys.csproj.Up2Date
+C:\sbm\api\VolPro.Sys\obj\Release\net8.0\VolPro.Sys.dll
+C:\sbm\api\VolPro.Sys\obj\Release\net8.0\refint\VolPro.Sys.dll
+C:\sbm\api\VolPro.Sys\obj\Release\net8.0\VolPro.Sys.pdb
+C:\sbm\api\VolPro.Sys\obj\Release\net8.0\ref\VolPro.Sys.dll

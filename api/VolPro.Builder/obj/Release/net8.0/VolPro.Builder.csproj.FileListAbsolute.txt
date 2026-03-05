@@ -1,0 +1,17 @@
+C:\sbm\api\VolPro.Builder\bin\Release\net8.0\VolPro.Builder.deps.json
+C:\sbm\api\VolPro.Builder\bin\Release\net8.0\VolPro.Builder.dll
+C:\sbm\api\VolPro.Builder\bin\Release\net8.0\VolPro.Builder.pdb
+C:\sbm\api\VolPro.Builder\bin\Release\net8.0\VolPro.Core.dll
+C:\sbm\api\VolPro.Builder\bin\Release\net8.0\VolPro.Entity.dll
+C:\sbm\api\VolPro.Builder\bin\Release\net8.0\VolPro.Core.pdb
+C:\sbm\api\VolPro.Builder\bin\Release\net8.0\VolPro.Entity.pdb
+C:\sbm\api\VolPro.Builder\obj\Release\net8.0\VolPro.Builder.csproj.AssemblyReference.cache
+C:\sbm\api\VolPro.Builder\obj\Release\net8.0\VolPro.Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\sbm\api\VolPro.Builder\obj\Release\net8.0\VolPro.Builder.AssemblyInfoInputs.cache
+C:\sbm\api\VolPro.Builder\obj\Release\net8.0\VolPro.Builder.AssemblyInfo.cs
+C:\sbm\api\VolPro.Builder\obj\Release\net8.0\VolPro.Builder.csproj.CoreCompileInputs.cache
+C:\sbm\api\VolPro.Builder\obj\Release\net8.0\VolPro.B.C8A901EF.Up2Date
+C:\sbm\api\VolPro.Builder\obj\Release\net8.0\VolPro.Builder.dll
+C:\sbm\api\VolPro.Builder\obj\Release\net8.0\refint\VolPro.Builder.dll
+C:\sbm\api\VolPro.Builder\obj\Release\net8.0\VolPro.Builder.pdb
+C:\sbm\api\VolPro.Builder\obj\Release\net8.0\ref\VolPro.Builder.dll

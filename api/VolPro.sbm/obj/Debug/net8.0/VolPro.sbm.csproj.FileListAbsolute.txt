@@ -1,0 +1,17 @@
+C:\sbm\api\VolPro.sbm\bin\Debug\net8.0\VolPro.sbm.deps.json
+C:\sbm\api\VolPro.sbm\bin\Debug\net8.0\VolPro.sbm.dll
+C:\sbm\api\VolPro.sbm\bin\Debug\net8.0\VolPro.sbm.pdb
+C:\sbm\api\VolPro.sbm\bin\Debug\net8.0\VolPro.Core.dll
+C:\sbm\api\VolPro.sbm\bin\Debug\net8.0\VolPro.Entity.dll
+C:\sbm\api\VolPro.sbm\bin\Debug\net8.0\VolPro.Core.pdb
+C:\sbm\api\VolPro.sbm\bin\Debug\net8.0\VolPro.Entity.pdb
+C:\sbm\api\VolPro.sbm\obj\Debug\net8.0\VolPro.sbm.csproj.AssemblyReference.cache
+C:\sbm\api\VolPro.sbm\obj\Debug\net8.0\VolPro.sbm.GeneratedMSBuildEditorConfig.editorconfig
+C:\sbm\api\VolPro.sbm\obj\Debug\net8.0\VolPro.sbm.AssemblyInfoInputs.cache
+C:\sbm\api\VolPro.sbm\obj\Debug\net8.0\VolPro.sbm.AssemblyInfo.cs
+C:\sbm\api\VolPro.sbm\obj\Debug\net8.0\VolPro.sbm.csproj.CoreCompileInputs.cache
+C:\sbm\api\VolPro.sbm\obj\Debug\net8.0\VolPro.sbm.csproj.Up2Date
+C:\sbm\api\VolPro.sbm\obj\Debug\net8.0\VolPro.sbm.dll
+C:\sbm\api\VolPro.sbm\obj\Debug\net8.0\refint\VolPro.sbm.dll
+C:\sbm\api\VolPro.sbm\obj\Debug\net8.0\VolPro.sbm.pdb
+C:\sbm\api\VolPro.sbm\obj\Debug\net8.0\ref\VolPro.sbm.dll

@@ -1,0 +1,12 @@
+/*
+ *代碼由框架生成,任何更改都可能导致被代碼生成器覆盖
+ */
+using VolPro.Core.BaseProvider;
+using VolPro.Entity.DomainModels;
+
+namespace VolPro.MES.IServices
+{
+    public partial interface IMES_ProductionPlanDetailService : IService<MES_ProductionPlanDetail>
+    {
+    }
+}

@@ -1,0 +1,55 @@
+﻿{
+	"Version":"6.8.8.0",
+	"Title":"按單统计销售明细報表",
+	"Author":"锐浪報表软件",
+	"Description":"分组字段只在本分组项的第一笔記錄顯示：\r\n通過在内容格的 “取顯示文字脚本” 屬性上写報表脚本来實现，按条件設置相关内容格的顯示文字。通過 IGridppReport.SystemVarValue2 方法获取當前的分组行號，如果不是1，则把内容格的 DisplayText 設置為空字符串。\r\n",
+	"PrintAsDesignPaper":false,
+	"Font":{
+		"Name":"宋體",
+		"Size":90000,
+		"Weight":400,
+		"Charset":134
+	},
+	"InitializeScript":"Report.ParameterByName(\"UnionName\").AsString = \"\";",
+	"Printer":{
+		"Size":256,
+		"Width":27,
+		"Height":39.7,
+		"LeftMargin":0,
+		"TopMargin":2.35479,
+		"RightMargin":0
+	},
+	"Parameter":[
+		{
+			"Name":"Comment",
+			"Value":"用脚本實现每個分组的统计值串接顯示在報表尾：\r\n1、定義一個参數，用来存储串接值。\r\n2、在報表的“初始化脚本”上初始化参數值。\r\n3、在分组的“分组结束脚本”上串接當前统计值。\r\n4、在報表尾上用静態框或综合文本框顯示此参數。"
+		},
+		{
+			"Name":"UnionName"
+		}
+	],
+	"ReportHeader":[
+		{
+			"Height":1.00542,
+			"Control":[
+				{
+					"Type":"StaticBox",
+					"Name":"TitleBox",
+					"Center":"Horizontal",
+					"Left":6.05896,
+					"Top":0.396875,
+					"Width":14.8696,
+					"Height":0.582083,
+					"Font":{
+						"Name":"宋體",
+						"Size":150000,
+						"Bold":true,
+						"Charset":134
+					},
+					"TextAlign":"MiddleCenter",
+					"Text":"分组统计"
+				}
+			]
+		}
+	]
+}

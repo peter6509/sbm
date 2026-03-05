@@ -1,0 +1,41 @@
+﻿/*
+ *所有关于{TableName}類的業務代碼應在此處编写
+*可使用repository.調用常用方法，获取EF/Dapper等信息
+*如果需要事務請使用repository.DbContextBeginTransaction
+*也可使用DBServerProvider.手動获取數據庫相关信息
+*用户信息、權限、角色等使用UserContext.Current操作
+*{TableName}Service對增、删、改查、导入、导出、審核業務代碼扩展参照ServiceFunFilter
+*/
+using {StartName}.Core.BaseProvider;
+using {StartName}.Core.Extensions.AutofacManager;
+using {StartName}.Entity.DomainModels;
+using System.Linq;
+using VolPro.Core.Utilities;
+using System.Linq.Expressions;
+using {StartName}.Core.Extensions;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.Http;
+using {Namespace}.IRepositories;
+
+namespace {Namespace}.Services
+{
+    public partial class {TableName}Service
+    {
+        private readonly IHttpContextAccessor _httpContextAccessor;
+        private readonly I{TableName}Repository _repository;//訪問數據庫
+
+        [ActivatorUtilitiesConstructor]
+        public {TableName}Service(
+            I{TableName}Repository dbRepository,
+            IHttpContextAccessor httpContextAccessor
+            )
+        : base(dbRepository)
+        {
+            _httpContextAccessor = httpContextAccessor;
+            _repository = dbRepository;
+            //多租户會用到這init代碼，其他情况可以不用
+            //base.Init(dbRepository);
+        }
+  }
+}

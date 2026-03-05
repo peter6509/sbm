@@ -1,0 +1,19 @@
+let extension = {
+  components: {
+    //動態擴充组件或组件路径
+    //表單header、content、footer對應位置擴充的组件
+    //擴展组件引入方式
+    gridHeader: '',
+    gridBody: '',
+    gridFooter: '',
+    //彈出框(修改、編輯、查看)header、content、footer對應位置擴充的组件
+    modelHeader: '',
+    modelBody: '',
+    modelFooter: ''
+  },
+  buttons: [], //擴展的按鈕
+  text: '',
+  methods: {
+  }
+}
+export default extension

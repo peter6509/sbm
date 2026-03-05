@@ -1,0 +1,75 @@
+/*****************************************************************************************
+**  Author:jxx 2023
+**  QQ:283591387
+**  框架文档： http://doc.volcore.xyz/
+*****************************************************************************************/
+//此js文件是用来自定义扩展業務代碼，在當前[表.vue]文件中也可以實现業務处理
+
+let extension = {
+  components: {
+    //查詢界面扩展组件
+    gridHeader: '',
+    gridBody: '',
+    gridFooter: '',
+    //新建、編輯弹出框扩展组件
+    modelHeader: '',
+    modelBody: '',
+    modelRight: '',
+    modelFooter: ''
+  },
+  tableAction: '', //指定某張表的權限(這里填写表名,默認不用填写)
+  buttons: { view: [], box: [], detail: [] }, //扩展的按钮
+  methods: {
+     //下面這些方法可以保留也可以删除
+    onInit() {  //框架初始化配置前，
+        //示例：在按钮的最前面添加一個按钮
+        //   this.buttons.unshift({  //也可以用push或者splice方法来修改buttons數组
+        //     name: '按钮', //按钮名稱
+        //     icon: 'el-icon-document', //按钮图標：https://element.eleme.cn/#/zh-CN/component/icon
+        //     type: 'primary', //按钮样式:https://element-plus.gitee.io/zh-CN/component/button.html
+        //     //color:"#eee",//自定义按钮颜色
+        //     onClick: function () {
+        //       this.$Message.success('點击了按钮');
+        //     }
+        //   });
+
+        //示例：設置修改新建、編輯弹出框字段標签的长度
+        // this.boxOptions.labelWidth = 150;
+    },
+    onInited() {
+      //框架初始化配置后
+      //如果要配置明细表,在此方法操作
+      //this.detailOptions.columns.forEach(column=>{ });
+    },
+    searchBefore(param) {
+      //界面查詢前,可以给param.wheres添加查詢参數
+      //返回false，則不會執行查詢
+      return true;
+    },
+    searchAfter(result) {
+      //查詢后，result返回的查詢數據,可以在显示到表格前处理表格的值
+      return true;
+    },
+    addBefore(formData) {
+      //新建保存前formData為對象，包括明细表，可以给给表單設置值，自己输出看formData的值
+      return true;
+    },
+    updateBefore(formData) {
+      //編輯保存前formData為對象，包括明细表、删除行的Id
+      return true;
+    },
+    rowClick({ row, column, event }) {
+      //查詢界面點击行事件
+      // this.$refs.table.$refs.table.toggleRowSelection(row); //單击行時选中當前行;
+    },
+    modelOpenAfter(row) {
+      //點击編輯、新建按钮弹出框后，可以在此处写邏輯，如，从后台获取數據
+      //(1)判断是編輯还是新建操作： this.currentAction=='Add';
+      //(2)给弹出框設置默認值
+      //(3)this.editFormFields.字段='xxx';
+      //如果需要给下拉框設置默認值，請遍历this.editFormOptions找到字段配置對應data屬性的key值
+      //看不懂就把输出看：console.log(this.editFormOptions)
+    }
+  }
+};
+export default extension;
